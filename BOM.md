@@ -12,6 +12,7 @@ On/off butonu x1 :  https://www.komponentci.net/ic-120-mini-isiksiz-anahtar-on-o
 m4x8 YHB civata x2 : https://www.komponentci.net/m4x8mm-yhb-vida-din965-yildiz-havsa-basli-vida-10-adet-pmu62079  
 m3x6 YHB civata x2 : https://www.komponentci.net/m3x5mm-yhb-vida-din965-yildiz-havsa-basli-vida-10-adet-pmu62066  
 m1.5 x 2 civata : Link bulamadım. Eski laptoplardan sökülebilir veya direkt sıcak silion ile yapıştırılabilir.
+Type-C : Link bulamadım temudan almıştım.
 
 # ALETLER  
 Multimetre  
